@@ -2,7 +2,7 @@ import os
 os.system("apt-get install figlet")
 os.system("apt-get install ncrack")
 os.system("clear")
-os.system("figlet KABAKUVVET SALDIRISINA HOSGELDİNİZ")
+
 print(""" 
   ▔▔▔▔▔╲
 ▕╮╭┻┻╮╭┻┻╮╭▕╮╲
