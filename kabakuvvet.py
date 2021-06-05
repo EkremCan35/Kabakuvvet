@@ -2,9 +2,19 @@ import os
 os.system("apt-get install figlet")
 os.system("apt-get install ncrack")
 os.system("clear")
-os.system("figlet CHEESTERORJ")
+os.system("figlet KABAKUVVET SALDIRISINA HOSGELDİNİZ")
 print(""" 
-Kaba Kuvvet Saldırısına Hoşgeldiniz
+  ▔▔▔▔▔╲
+▕╮╭┻┻╮╭┻┻╮╭▕╮╲
+▕╯┃╭╮┃┃╭╮┃╰▕╯╭▏
+▕╭┻┻┻┛┗┻┻┛ ▕ ╰▏
+▕╰━━━┓┈┈┈╭╮▕╭╮▏
+▕╭╮╰┳┳┳┳╯╰╯▕╰╯▏
+▕╰╯┈┗┛┗┛┈╭╮▕╮┈▏
+Code by: EkremCan
+Team: RedHackTeam
+Telegram: @RedHackOrg
+
 
 1) FTP
 2) SSH
@@ -18,7 +28,7 @@ Kaba Kuvvet Saldırısına Hoşgeldiniz
 10) POSTGRESQL
 11) MYSQL
 
-Bu Saldırı Ekrem Can Tarafındann yapılmıştır.
+Bu Saldırı Ekrem Can Tarafındann Kodlandırılmıştır.
 """)
 islemno = input("İşlem No Giriniz : ")
 hedefip = input("Hedef İp Giriniz : ")
